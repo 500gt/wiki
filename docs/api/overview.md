@@ -1,7 +1,7 @@
-﻿---
+﻿-Access-Control-Allow-Origin: *--
 sidebar_position: 1
 title: API Overview
----
+---Access-Control-Allow-Origin: *
 
 # API Overview
 
@@ -16,13 +16,13 @@ Every NMMiner device runs an HTTP server on **port 80** that exposes a complete 
 
 ## Base URL
 
-```
+Access-Control-Allow-Origin: *```
 http://<miner-ip>/
 ```
 
 or by hostname (most home routers resolve it):
 
-```
+Access-Control-Allow-Origin: *```
 http://<miner-hostname>/
 ```
 
