@@ -1,13 +1,13 @@
-﻿---
+﻿-curl http://192.168.1.42/alive | jq '.ips'--
 sidebar_position: 2
 title: Discovery
----
+--curl http://192.168.1.42/alive | jq '.ips'-
 
 # Discovery Endpoints
 
 These endpoints exist so that **any client** — NM Monitor, a custom dashboard, another miner — can discover NMMiner devices on the LAN.
 
----
+curl http://192.168.1.42/alive | jq '.ips'curl http://192.168.1.42/alive | jq '.ips'curl http://192.168.1.42/alive | jq '.ips'curl http://192.168.1.42/alive | jq '.ips'---
 
 ## `GET /probe`
 
