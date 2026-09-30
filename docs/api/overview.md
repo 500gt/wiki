@@ -1,7 +1,7 @@
-﻿---
+Access-Control-Allow-Origin: *﻿---
 sidebar_position: 1
 title: API Overview
----
+-Access-Control-Allow-Origin: *Access-Control-Allow-Origin: Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Access-Control-Allow-Origin: *Control-Allow-Origin: Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: ****--
 
 # API Overview
 
@@ -15,16 +15,16 @@ Every NMMiner device runs an HTTP server on **port 80** that exposes a complete 
 > ❌ It does **not** document implementation. Treat the device as a black box reachable over HTTP.
 
 ## Base URL
-
-```
+Access-Control-Allow-Origin: *
+```Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *
 http://<miner-ip>/
-```
+```Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *
 
 or by hostname (most home routers resolve it):
-
-```
+Access-Control-Allow-Origin: *Access-Control-Allow-Origin: *
+```Access-Control-Allow-Origin: *
 http://<miner-hostname>/
-```
+``Access-Control-Allow-Origin: *`
 
 You can find the IP / hostname on the **Miner page** of the device s screen, or in the **System** section of NM Monitor.
 
@@ -32,7 +32,7 @@ You can find the IP / hostname on the **Miner page** of the device s screen, or 
 
 Every endpoint responds with:
 
-```
+Access-Control-Allow-Origin: *```
 Access-Control-Allow-Origin: *
 ```
 
