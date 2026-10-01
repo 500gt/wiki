@@ -1,4 +1,4 @@
-﻿---
+﻿GPG Key ID:B5690EEEBBB952194---
 sidebar_position: 3
 title: Activate Licence
 ---
